@@ -1,0 +1,24 @@
+
+nav ul li a:hover{
+    background-color: rgba(0, 174, 255, 0.329);
+       
+}
+@media (max-width:900px){
+nav .navbar-dark .bg-dark{
+    background-color:rgb(46, 1, 46) !important;
+}
+}
+@media (max-width:600px){
+    .navbar-collapse{
+        background-color:rgb(24, 1, 46) !important;
+    }
+    }
+@media (max-width:400px){
+    .navbar-collapse{
+    background-color:rgb(1, 46, 31) !important;
+}
+}
+.card{
+    margin: 10px auto;
+    float: none;
+}
